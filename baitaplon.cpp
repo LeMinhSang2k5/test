@@ -4,8 +4,6 @@ Le Minh Sang - 072205001900
 Nguyen Chi Thanh - 072205000038
 Nguyen Hoai Linh - 082205014590
 */
-
-
 // test
 
 #include <iostream>
